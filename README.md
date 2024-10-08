@@ -1,6 +1,6 @@
 # Digital-Image-Processing
 
-数字图像处理（2024年春）
+Digital Image Processing (Spring 2024)
 
 ![image](https://github.com/user-attachments/assets/c5166cad-e2cf-431e-ab2f-680e2df9b046)
 ![image](https://github.com/user-attachments/assets/646391d8-32cd-4a77-bdf0-0d939161c0df)
